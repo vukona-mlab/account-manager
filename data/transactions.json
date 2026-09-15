@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "accountNumber": "ACC1001",
+        "type": "WITHDRAWAL",
+        "amount": 100,
+        "status": "APPROVED",
+        "reason": "NONE",
+        "timestamp": "2026-09-01T09:00:00",
+        "destinationAccount": ""
+    },
+    {
+        "id": 2,
+        "accountNumber": "ACC1001",
+        "type": "WITHDRAWAL",
+        "amount": 120,
+        "status": "APPROVED",
+        "reason": "NONE",
+        "timestamp": "2026-09-02T09:00:00",
+        "destinationAccount": ""
+    },
+    {
+        "id": 3,
+        "accountNumber": "ACC1001",
+        "type": "WITHDRAWAL",
+        "amount": 80,
+        "status": "APPROVED",
+        "reason": "NONE",
+        "timestamp": "2026-09-03T09:00:00",
+        "destinationAccount": ""
+    },
+    {
+        "id": 4,
+        "accountNumber": "ACC1001",
+        "type": "WITHDRAWAL",
+        "amount": 100,
+        "status": "APPROVED",
+        "reason": "NONE",
+        "timestamp": "2026-09-04T09:00:00",
+        "destinationAccount": ""
+    },
+    {
+        "id": 5,
+        "accountNumber": "ACC1001",
+        "type": "WITHDRAWAL",
+        "amount": 100,
+        "status": "APPROVED",
+        "reason": "NONE",
+        "timestamp": "2026-09-05T09:00:00",
+        "destinationAccount": ""
+    },
+    {
+        "id": 6,
+        "accountNumber": "ACC1001",
+        "type": "DEPOSIT",
+        "amount": 20000,
+        "status": "APPROVED",
+        "reason": "NONE",
+        "timestamp": "2026-09-15T21:36:37",
+        "destinationAccount": ""
+    },
+    {
+        "id": 7,
+        "accountNumber": "ACC1001",
+        "type": "DEPOSIT",
+        "amount": 0.1,
+        "status": "APPROVED",
+        "reason": "NONE",
+        "timestamp": "2026-09-15T21:42:20",
+        "destinationAccount": ""
+    }
+]

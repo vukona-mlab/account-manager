@@ -1,0 +1,17 @@
+[
+    {
+        "accountNumber": "ACC1001",
+        "ownerUserId": 1,
+        "balance": 30000.1
+    },
+    {
+        "accountNumber": "ACC1002",
+        "ownerUserId": 2,
+        "balance": 5000
+    },
+    {
+        "accountNumber": "ACC1003",
+        "ownerUserId": 3,
+        "balance": 2000
+    }
+]
